@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Place One",
+        "description": "A beautiful place to explore.",
+        "image": "place1.jpg"
+    },
+    {
+        "name": "Place Two",
+        "description": "Another amazing destination.",
+        "image": "place2.jpg"
+    },
+    {
+        "name": "Place Three",
+        "description": "Experience breathtaking views.",
+        "image": "place3.jpg"
+    },
+    {
+        "name": "Place Four",
+        "description": "Discover hidden gems.",
+        "image": "place4.jpg"
+    }
+]
+
